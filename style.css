@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(245, 189, 48);
+    font-family: Georgia, 'Times New Roman', Times;
+    text-align: center;
+}
+h1 {
+    background-color: rgb(244, 123, 166);
+}
+p {
+    background-color: lightseagreen;
+    font-weight: bold;
+    line-height: 1.4em;
+}
+fieldset {
+    width: 350px;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: left;
+}
+legend {
+    background-color: #efefef;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding 10px 20px;
+    text-align: left;
+    text-transform: uppercase;
+}
